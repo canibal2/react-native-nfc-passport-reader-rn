@@ -1,0 +1,1 @@
+{"version":3,"file":"PassportOptions.d.ts","sourceRoot":"","sources":["../../../src/interfaces/PassportOptions.tsx"],"names":[],"mappings":"AAAA,MAAM,WAAW,eAAe;IAC9B,wBAAwB,EAAE,OAAO,CAAC;IAClC,cAAc,EAAE,MAAM,CAAC;IACvB,UAAU,EAAE,MAAM,CAAC;IACnB,SAAS,EAAE,MAAM,CAAC;CACnB"}
